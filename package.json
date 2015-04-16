@@ -1,6 +1,6 @@
 {
   "name": "sand-redis",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sand.js client for Redis",
   "main": "lib/redis.js",
   "scripts": {
@@ -24,5 +24,8 @@
     "hiredis": "^0.3.0",
     "redis": "^0.12.1",
     "sand-grain": "^1.0.0"
+  },
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org"
   }
 }
