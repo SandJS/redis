@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/pocketly/sand-redis",
   "dependencies": {
-    "hiredis": "^0.3.0",
+    "hiredis": "^0.4.0",
     "redis": "^0.12.1",
     "sand-grain": "^1.0.0"
   },
